@@ -1,0 +1,7 @@
+C:\Users\Benny\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\obj\Debug\PrimeiraCalculadora.csproj.AssemblyReference.cache
+C:\Users\Benny\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\obj\Debug\PrimeiraCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Benny\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\bin\Debug\PrimeiraCalculadora.exe.config
+C:\Users\Benny\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\bin\Debug\PrimeiraCalculadora.exe
+C:\Users\Benny\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\bin\Debug\PrimeiraCalculadora.pdb
+C:\Users\Benny\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\obj\Debug\PrimeiraCalculadora.exe
+C:\Users\Benny\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\obj\Debug\PrimeiraCalculadora.pdb
